@@ -1,6 +1,6 @@
 # React + Vite
 
-# React 1st task
+# React 1st task - React price card
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
